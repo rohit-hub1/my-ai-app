@@ -54,7 +54,7 @@ export default function Dashboard() {
   // Function to handle new chat
   const handleNewChat = () => {
     setPrompt("");
-    setResponse("Hello! How can I assist you today?");
+    setResponse("I LOVE YOU CHINOO!!💋");
     setIsLoading(false);
   };
 
