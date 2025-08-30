@@ -58,7 +58,7 @@ export default function Dashboard() {
     setIsLoading(false);
   };
 
-  return (
+  return ( 
     <div
       className={`min-h-screen ${
         darkMode ? "bg-gray-900" : "bg-gray-100"

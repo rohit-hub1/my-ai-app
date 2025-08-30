@@ -4,7 +4,7 @@ A modern AI interface built with Next.js, TypeScript, and Tailwind CSS that comb
 
  **🌟Live Demo**
 
-[Deployed Versel link] https://my-ai-app-opal.vercel.app/login
+[Deployed Versel link] https://my-ai-app-eosin.vercel.app/login
 
  **📋Project Overview**
 
