@@ -76,7 +76,7 @@ export default function LoginPage() {
             <i className="fas fa-brain text-5xl text-indigo-500"></i>
           </div>
           <h1 className="text-3xl font-bold bg-gradient-to-r from-indigo-500 to-emerald-500 bg-clip-text text-transparent">
-            NexusAI
+            MyAI
           </h1>
           <p className="text-gray-400 mt-2">Intelligent Systems Login</p>
         </div>
